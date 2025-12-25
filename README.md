@@ -6,7 +6,7 @@ Hi there! My name is Nontawad Saetan, I'm a 3rd-year IoT and Information Enginee
 - **AI/ML:** TensorFlow, PyTorch, MobileNetV2, XGBoost
 - **Tools & Platforms:** Docker, Git, Vercel, Render, Replit, MongoDB, MySQL, Google Colab
 
-*About Me:**  
+**About Me:**  
 I love building web & mobile applications, exploring AI/ML projects, and creating practical tech solutions. Always learning and experimenting with new technologies!!!
 
 **Interests:** Game development, UX/UI design, Software, and innovative projects that improve daily life.
