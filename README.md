@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there! My name is Nontawad Saetan, I'm a 3rd-year IoT and Information Engineering student at **King Mongkut’s Institute of Technology Ladkrabang (KMITL)**
 
-<!--
-**OnichiEiEi/OnichiEiEi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills & Technologies**
+- **Frontend:** React, React Native, HTML, CSS, TailwindCSS
+- **Backend:** Node.js, Express, FastAPI, Python, JavaScript
+- **AI/ML:** TensorFlow, PyTorch, MobileNetV2, XGBoost
+- **Tools & Platforms:** Docker, Git, Vercel, Render, Replit, MongoDB, MySQL, Google Colab
 
-Here are some ideas to get you started:
+*About Me:**  
+I love building web & mobile applications, exploring AI/ML projects, and creating practical tech solutions. Always learning and experimenting with new technologies!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** Game development, UX/UI design, Software, and innovative projects that improve daily life.
+
+**Connect with me:**  
+[Email](mailto:mongri2244@gmail.com)
