@@ -12,4 +12,4 @@ I love building web & mobile applications, exploring AI/ML projects, and creatin
 **Interests:** Game development, UX/UI design, Software, and innovative projects that improve daily life.
 
 **Connect with me:**  
-[Email](mailto:mongri2244@gmail.com)
+Email : mongri2244@gmail.com
