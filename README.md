@@ -2,7 +2,7 @@ Hi there! My name is Nontawad Saetan, I'm a 3rd-year IoT and Information Enginee
 
 **Skills & Technologies**
 - **Frontend:** React, React Native, HTML, CSS, TailwindCSS
-- **Backend:** Node.js, Express, FastAPI, Python, JavaScript
+- **Backend:** Node.js, Express, RestAPI, Python, JavaScript
 - **AI/ML:** TensorFlow, PyTorch, MobileNetV2, XGBoost
 - **Tools & Platforms:** Docker, Git, Vercel, Render, Replit, MongoDB, MySQL, Google Colab
 
